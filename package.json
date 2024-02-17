@@ -1,0 +1,12 @@
+{
+  "name": "try-mikro-orm",
+  "version": "1.0.0",
+  "description": "https://mikro-orm.io/docs/quick-start",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
